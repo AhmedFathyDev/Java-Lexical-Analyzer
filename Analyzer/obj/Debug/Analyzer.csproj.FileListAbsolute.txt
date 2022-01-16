@@ -18,3 +18,14 @@ D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cac
 D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
 D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.exe
 D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.pdb
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\bin\Debug\Analyzer.exe
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.AssemblyReference.cache
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.SuggestedBindingRedirects.cache
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.exe
+D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.pdb
