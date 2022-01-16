@@ -1,0 +1,20 @@
+D:\FCI\Compilers\compiler project\Analyzer\bin\Debug\Analyzer.exe.config
+D:\FCI\Compilers\compiler project\Analyzer\bin\Debug\Analyzer.exe
+D:\FCI\Compilers\compiler project\Analyzer\bin\Debug\Analyzer.pdb
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.exe
+D:\FCI\Compilers\compiler project\Analyzer\obj\Debug\Analyzer.pdb
+D:\FCI\Compilers\Project\Analyzer\bin\Debug\Analyzer.exe.config
+D:\FCI\Compilers\Project\Analyzer\bin\Debug\Analyzer.exe
+D:\FCI\Compilers\Project\Analyzer\bin\Debug\Analyzer.pdb
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.Form1.resources
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.exe
+D:\FCI\Compilers\Project\Analyzer\obj\Debug\Analyzer.pdb
