@@ -1,1 +1,1 @@
-# java-lexical-analyzer
+# Java Lexical Analyzer
