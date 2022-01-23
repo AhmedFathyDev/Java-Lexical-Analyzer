@@ -29,3 +29,13 @@ D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.Gene
 D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
 D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.exe
 D:\Doing\Workspace\Java-Lexical-Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\Github\java-lexical-analyzer\bin\Debug\Analyzer.exe.config
+D:\Github\java-lexical-analyzer\bin\Debug\Analyzer.exe
+D:\Github\java-lexical-analyzer\bin\Debug\Analyzer.pdb
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.Form1.resources
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.exe
+D:\Github\java-lexical-analyzer\obj\Debug\Analyzer.pdb
